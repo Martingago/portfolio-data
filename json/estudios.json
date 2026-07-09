@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MEaRyAMEu65mdGehNjfA",
+    "coleccion": "estudios",
+    "en_curso": false,
+    "fecha_finalizado": 1734480000000,
+    "name": "Desarrollo Aplicaciones Multiplataforma",
+    "fecha_iniciado": 1662768000000,
+    "lugar_estudios": "IES SAN CLEMENTE"
+  },
+  {
+    "id": "jyzg978rIlOrG7BQydJ2",
+    "coleccion": "estudios",
+    "lugar_estudios": "CERSIA",
+    "fecha_iniciado": 1628553600000,
+    "en_curso": false,
+    "fecha_finalizado": 1660089600000,
+    "name": "Desarrollo de aplicaciones con tecnología web (IFCD0210) Certificado de profesionalidad"
+  },
+  {
+    "id": "B8ozvny0NwRy7Boqmo1w",
+    "coleccion": "estudios",
+    "fecha_iniciado": 1536969600000,
+    "en_curso": false,
+    "name": "Ciclo superior de gestión de ventas y espacios comerciales",
+    "fecha_finalizado": 1623715200000,
+    "lugar_estudios": "IES PONTEPEDRIÑA"
+  },
+  {
+    "id": "LDQ7nS9rK8cKu8cJdkR1",
+    "coleccion": "estudios",
+    "fecha_iniciado": 1473465600000,
+    "en_curso": false,
+    "name": "Ciclo superior de Comercio Internacional",
+    "fecha_finalizado": 1528588800000,
+    "lugar_estudios": "IES PONTEPEDRIÑA"
+  }
+]

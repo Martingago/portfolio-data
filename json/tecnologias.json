@@ -1,0 +1,149 @@
+[
+  {
+    "id": "CxnmN10wrqzQdRuBF4oH",
+    "name": "Kotlin",
+    "alt_image": "Logotipo de kotlin porfolio Martín Gago",
+    "url_image": "/img/tecnologias/Kotlin_Icon.svg",
+    "color": "#43adfe"
+  },
+  {
+    "id": "Deqv7qIQxeHlNOPwheFg",
+    "name": "Tailwind",
+    "alt_image": "Logotipo de tailwindCSS",
+    "url_image": "/img/tecnologias/Tailwind-css-logo.svg",
+    "color": "#39ddfe"
+  },
+  {
+    "id": "H6vE5LaT3UeNqIJVlUVp",
+    "name": "Firebase",
+    "alt_image": "Logotipo de Firebase",
+    "url_image": "/img/tecnologias/Firebase-logo.svg",
+    "color": "#f1a44b"
+  },
+  {
+    "id": "HUUFTl3GXrdv0qmaId7Q",
+    "name": "Bootstrap",
+    "alt_image": "Logotipo de Bootstrap",
+    "url_image": "/img/tecnologias/Bootstrap-logo.svg",
+    "color": "#c670ff"
+  },
+  {
+    "id": "J2kwDz6QQD31PJ7R0Nid",
+    "name": "CSS",
+    "alt_image": "Logotipo de CSS",
+    "url_image": "/img/tecnologias/Official_CSS_Logo.svg",
+    "color": "#a358fe"
+  },
+  {
+    "id": "JxpgFfMugEUHBQgVWwfb",
+    "name": "Streamlit",
+    "alt_image": "streamlit logo svg",
+    "url_image": "/img/tecnologias/streamlit-mark-color.svg",
+    "color": "#fe6767"
+  },
+  {
+    "id": "MX2XuqoOzHJX1GmHWPSn",
+    "name": "Unity",
+    "alt_image": "Imagen del logotipo de unity",
+    "url_image": "/img/tecnologias/unity-logo.webp",
+    "color": "#949494"
+  },
+  {
+    "id": "PJbkzQzM4tPStxVFmGZ5",
+    "name": "Docker",
+    "alt_image": "Logotipo de Docker portfolio Martín gago",
+    "url_image": "/img/tecnologias/docker-svgrepo-com.svg",
+    "color": "#6e88c4"
+  },
+  {
+    "id": "SqXpf2QkzRTC5r8EJFO7",
+    "name": "Python",
+    "alt_image": "python logo SVG",
+    "url_image": "/img/tecnologias/Python-logo-notext.svg",
+    "color": "#6bb6d6"
+  },
+  {
+    "id": "Vygu7SyWvDcZ0xtEFZCS",
+    "name": "Ollama",
+    "alt_image": "Ollama svg logo image",
+    "url_image": "/img/tecnologias/ollama.svg",
+    "color": "#f0f0f0"
+  },
+  {
+    "id": "fXvepbu4uMYszDH2ZgGp",
+    "name": "Java",
+    "alt_image": "Logotipo de JAVA",
+    "url_image": "/img/tecnologias/java-logo.svg",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "fgOcuCBPZojKNC7ewXyo",
+    "name": "Postman",
+    "alt_image": "logotipo-postman-brand",
+    "url_image": "/img/tecnologias/postman-icon-svgrepo-com.svg",
+    "color": "#ff8624"
+  },
+  {
+    "id": "iiXNrPs2m1I2nK31wku1",
+    "name": "C#",
+    "alt_image": "Imagen de logotipo de C#",
+    "url_image": "/img/tecnologias/Csharp_Logo.png",
+    "color": "#ef6cf9"
+  },
+  {
+    "id": "itn45dslAwl6mPO96GgD",
+    "name": "Figma",
+    "alt_image": "Logotipo de Figma",
+    "url_image": "/img/tecnologias/Figma-logo.svg",
+    "color": "#b06a30"
+  },
+  {
+    "id": "l05Gw1etfjYde7dQNYn0",
+    "name": "Vue 3",
+    "alt_image": "Logotipo de VUE3",
+    "url_image": "/img/tecnologias/vue-3-logo.svg",
+    "color": "#309c73"
+  },
+  {
+    "id": "mSUoQIDvVXuiE3q545iU",
+    "name": "Spring",
+    "alt_image": "logotipo-spring-brand-java-framework",
+    "url_image": "/img/tecnologias/spring-svgrepo-com.svg",
+    "color": "#34cd32"
+  },
+  {
+    "id": "oJCwjcnw6cZkEjv9Fav3",
+    "name": "MySQL",
+    "alt_image": "Logotipo de MySQL",
+    "url_image": "/img/tecnologias/MySQL-logo.svg",
+    "color": "#a8b1f5"
+  },
+  {
+    "id": "r0SXWGgGbPepDvVKc0MY",
+    "name": "Wordpress",
+    "alt_image": "Logotipo de Wordpress",
+    "url_image": "/img/tecnologias/Wordpress-logo.svg",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "t4mSjNtb0XwGEQBCTpD6",
+    "name": "Nuxt",
+    "alt_image": "Logotipo de Nuxt",
+    "url_image": "/img/tecnologias/nuxt-logo.svg",
+    "color": "#17e88d"
+  },
+  {
+    "id": "tMJpx5LbEvWInQBGWFjD",
+    "name": "Mailchimp",
+    "alt_image": "Logotipo de Mailchimp",
+    "url_image": "/img/tecnologias/mailchimp-logo.svg",
+    "color": "#f1a44b"
+  },
+  {
+    "id": "wQxdqAZr6QXnrqShqJol",
+    "name": "JavaScript",
+    "alt_image": "Logotipo de JavaScript",
+    "url_image": "/img/tecnologias/javascript-logo.svg",
+    "color": "#ffe252"
+  }
+]

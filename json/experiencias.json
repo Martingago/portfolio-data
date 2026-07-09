@@ -1,0 +1,97 @@
+[
+  {
+    "id": "BY6R4G5FGwtiaOpkaQ6H",
+    "coleccion": "experiencias",
+    "responsabilidades": [
+      "Automatización de procesos para adaptar la documentación interna en formatos comprensibles por modelos de lenguaje (<span class=\"text-mi-green\">LLM</span>), mejorando la accesibilidad y el procesamiento de datos. Automatización de traducciones con <span class=\"text-mi-green\">IA</span>.",
+      "Creación de <span class=\"text-mi-green\">chatbot inteligente</span> basado en modelos locales <span class=\"text-mi-green\">Llama 3.1</span>, optimizado a búsquedas por embeddings en bases de datos vectoriales. Desarrollo de bases de datos con <span class=\"text-mi-green\">ChromaDB</span>, y diseño de interfaz con <span class=\"text-mi-green\">Streamlit</span>.",
+      "Uso del supercomputador para ejecutar diferentes modelos y realizar numerosas pruebas en ambientes locales."
+    ],
+    "trabajo_encurso": false,
+    "fecha_iniciado": 1727740800000,
+    "name_company": "CESGA",
+    "fecha_finalizado": 1733356800000,
+    "en_curso": false,
+    "tecnologias": [
+      "Vygu7SyWvDcZ0xtEFZCS",
+      "JxpgFfMugEUHBQgVWwfb",
+      "SqXpf2QkzRTC5r8EJFO7"
+    ],
+    "name": "Desarrollador de aplicaciones basadas en IA"
+  },
+  {
+    "id": "vWD00BRC1k97JzzpiqZN",
+    "coleccion": "experiencias",
+    "responsabilidades": [
+      "Desarrollé varios proyectos utilizando el framework  <span class=\"text-mi-green\">NUXT</span>. Adquirí experiencia en todas las fases del desarrollo de software, desde la planificación y diseño hasta la implementación y pruebas.",
+      "Diseñé y desarrollé un sitio web completo para un cliente utilizando <span class=\"text-mi-green\">WordPress</span>.",
+      "Desarrollé aplicaciones <span class=\"text-mi-green\">JAVA </span>siguiendo un patrón Modelo-Vista-Controlador (MVC) de forma robusta y escalable",
+      "Actualmente, estoy ampliando mis conocimientos en nuevas tecnologías como <span class=\"text-mi-green\">React</span>."
+    ],
+    "trabajo_encurso": false,
+    "fecha_finalizado": 1727740800000,
+    "name_company": "Desarrollador Freelance",
+    "fecha_iniciado": 1660176000000,
+    "name": "Desarrollador de aplicaciones web",
+    "tecnologias": [
+      "Deqv7qIQxeHlNOPwheFg",
+      "H6vE5LaT3UeNqIJVlUVp",
+      "fXvepbu4uMYszDH2ZgGp",
+      "itn45dslAwl6mPO96GgD",
+      "r0SXWGgGbPepDvVKc0MY",
+      "t4mSjNtb0XwGEQBCTpD6"
+    ],
+    "en_curso": false
+  },
+  {
+    "id": "ZfTvV18AbSADyJOtvDRU",
+    "coleccion": "experiencias",
+    "name_company": "CERSIA",
+    "fecha_finalizado": 1660089600000,
+    "fecha_iniciado": 1628553600000,
+    "name": "Desarrollador de aplicaciones web",
+    "tecnologias": [
+      "H6vE5LaT3UeNqIJVlUVp",
+      "l05Gw1etfjYde7dQNYn0",
+      "wQxdqAZr6QXnrqShqJol"
+    ],
+    "en_curso": false,
+    "responsabilidades": [
+      "Durante mi tiempo en CERSIA, participé activamente en el <span class=\"text-mi-green\">desarrollo de una aplicación </span>“Senllapp” empleando <span class=\"text-mi-green\">Vue 3</span>.",
+      "Contribuí al <span class=\"text-mi-green\">diseño y creación de la interfaz visual </span>de Senllapp.",
+      "Implementé fragmentos de código, mejorando mis habilidades técnicas. Esto incluyó la escritura de lógica en <span class=\"text-mi-green\">JavaScript</span>.",
+      "Como parte de un equipo colaborativo, demostré mis habilidades de <span class=\"text-mi-green\">trabajo en equipo</span>."
+    ]
+  },
+  {
+    "id": "87WFXXDaI3lU1Bneor7y",
+    "coleccion": "experiencias",
+    "responsabilidades": [
+      "Me especialicé en la creación y gestión de sitios web utilizando <span class=\"text-mi-green\">WordPress</span>.",
+      "Contribuí al <span class=\"text-mi-green\">diseño visual</span> de los proyectos, creando <span class=\"text-mi-green\">banners</span> y optimizando imágenes.",
+      "Colaboré en la planificación, ejecución y seguimiento de estrategias."
+    ],
+    "fecha_finalizado": 1607990400000,
+    "name_company": "COMUSYS",
+    "fecha_iniciado": 1600128000000,
+    "name": "Creación y gestión de webs con Wordpress",
+    "tecnologias": ["r0SXWGgGbPepDvVKc0MY"],
+    "en_curso": false
+  },
+  {
+    "id": "WM7LtKeUwE1EjmhhVtic",
+    "coleccion": "experiencias",
+    "responsabilidades": [
+      "Cree de campañas de e-mail marketing empleando herramientas como <span class=\"text-mi-green\">Mailchimp</span>.",
+      "Optimizé las <span class=\"text-mi-green\">imágenes</span> de la web adaptándolas para <span class=\"text-mi-green\">SEO</span>.",
+      "Publiqué y añadí productos en Amazon y Facebook Marketplace.",
+      "Contribuí a la preparación de pedidos."
+    ],
+    "fecha_iniciado": 1523318400000,
+    "name_company": "ITMEN",
+    "fecha_finalizado": 1531180800000,
+    "tecnologias": ["r0SXWGgGbPepDvVKc0MY", "tMJpx5LbEvWInQBGWFjD"],
+    "en_curso": false,
+    "name": "Mantenimiento y optimización de un E-commerce"
+  }
+]
